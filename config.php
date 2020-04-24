@@ -4,35 +4,35 @@ return [
 	/**
 	 * Bot's API token
 	 */
-	'bot_token' => '1200502251:AAFcMOqgBuVnI5YwYyrUGAiuy9oDqGlqWoM',
+	'bot_token' => '1249163513:AAHdP8chbqvo19e1yPbBkPbr4CkQtf7Cgio',
 	/**
 	 * Bot's username without @ symbol
 	 */
-	'bot_username' => 'kasdaairdropbot',
+	'bot_username' => 'TRNAIRDROPBOT',
 	/**
 	 * Bot's extended name/title
 	 */
-	'bot_title' => 'Kasda Airdrop',
+	'bot_title' => 'TRN Airdrop',
 	/**
 	 * Array of users which will have admin access to bot's private chat
 	 */
 	'bot_admins' =>[
-		872000561,
-		940829080
+		511215618,
+		
 	],
 	/**
 	 * Webhook url. Not needed if you will use any of getUpdates() method
 	 */
-	'webhook_url' => '---',
+	'webhook_url' => 'https://webhook.site/05bbfc73-a3e1-4f72-b780-d9513831aa0d',
 	/**
 	 * MySQL database credentials. Always necessary.
 	 */
 	'db' => [
 		'host'     => 'localhost',
 		'port'     => 3306,
-		'user'     => '',
-		'password' => '',
-		'database' => '',
+		'user'     => '106238',
+		'password' => 'password',
+		'database' => '106238',
 	],
 	/**
 	 * Enable or disable logs (/app/logs dir needs to be at least 755 accesses)
