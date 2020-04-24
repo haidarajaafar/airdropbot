@@ -28,7 +28,7 @@ return [
 	 * MySQL database credentials. Always necessary.
 	 */
 	'db' => [
-		'host'     => 'localhost',
+		'host'     => 'haidara.freevar.com',
 		'port'     => 3306,
 		'user'     => '106238',
 		'password' => 'password',
