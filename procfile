@@ -1,1 +1,1 @@
-web: index.php
+worker: php index.php
