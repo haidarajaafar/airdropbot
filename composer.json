@@ -1,11 +1,11 @@
 {
-  "name": "imskaaz/airdropbot",
+  "name": "haidarajaafar/airdropbot",
   "description": "Simple Telegram bot application for various free crypto-tokens Airdrop campaigns",
   "type": "project",
   "license": "MIT",
   "authors": [
     {
-      "name": "imskaaz",
+      "name": "haidarajaafar",
       "email": "imskaa.co@gmail.com",
       "role": "Developer"
     }
