@@ -4,15 +4,15 @@ return [
 	/**
 	 * Bot's API token
 	 */
-	'bot_token' => '1249163513:AAHdP8chbqvo19e1yPbBkPbr4CkQtf7Cgio',
+	'bot_token' => '1156627863:AAFK2bf8eNgS859dEKuqLN83yXdFaH235xk',
 	/**
 	 * Bot's username without @ symbol
 	 */
-	'bot_username' => 'TRNAIRDROPBOT',
+	'bot_username' => 'TRSTESTBOT',
 	/**
 	 * Bot's extended name/title
 	 */
-	'bot_title' => 'TRN Airdrop',
+	'bot_title' => 'TESTBOT',
 	/**
 	 * Array of users which will have admin access to bot's private chat
 	 */
@@ -23,7 +23,7 @@ return [
 	/**
 	 * Webhook url. Not needed if you will use any of getUpdates() method
 	 */
-	'webhook_url' => 'https://webhook.site/05bbfc73-a3e1-4f72-b780-d9513831aa0d',
+	'webhook_url' => '---',
 	/**
 	 * MySQL database credentials. Always necessary.
 	 */
