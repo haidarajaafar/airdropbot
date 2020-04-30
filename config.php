@@ -4,15 +4,15 @@ return [
 	/**
 	 * Bot's API token
 	 */
-	'bot_token' => '1156627863:AAFK2bf8eNgS859dEKuqLN83yXdFaH235xk',
+	'bot_token' => '1240900504:AAEARUVPOXmPxhfLdeohCrQZp9XYyV773AI',
 	/**
 	 * Bot's username without @ symbol
 	 */
-	'bot_username' => 'TRSTESTBOT',
+	'bot_username' => 'Jamalhzbot',
 	/**
 	 * Bot's extended name/title
 	 */
-	'bot_title' => 'TESTBOT',
+	'bot_title' => 'Jamalbot',
 	/**
 	 * Array of users which will have admin access to bot's private chat
 	 */
@@ -23,7 +23,7 @@ return [
 	/**
 	 * Webhook url. Not needed if you will use any of getUpdates() method
 	 */
-	'webhook_url' => '---',
+	'webhook_url' => 'http://kasdaa.herokuapp.com/',
 	/**
 	 * MySQL database credentials. Always necessary.
 	 */
